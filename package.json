@@ -1,7 +1,7 @@
 {
   "name": "lol",
   "version": "1.0.0",
-  "description": "A graph based site for League of Legends",
+  "description": "A BoilerPlate Starting Point",
   "main": "index.js",
   "scripts": {
     "test": "test",
